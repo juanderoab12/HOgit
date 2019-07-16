@@ -123,3 +123,5 @@ git push
 
 Y vi tu sonrisa en el cielo y despues me fui a dormir
 Y de vuelta soñe contigo y mi mundo cambio
+
+Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
